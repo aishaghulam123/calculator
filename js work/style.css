@@ -1,0 +1,50 @@
+#one{
+    width: 50%;
+text-align: center;
+margin-left: 25%;
+
+
+}
+#o1{
+    border: 5px solid white;
+    background-color: black;
+    width: 28%;
+    margin-left: 35%;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+button{padding: 10px;
+margin: 2px;
+border-radius: 30%;
+background-color: rgb(172, 167, 167);
+}
+#two{
+    margin-top: 4px;
+}
+#oo{
+    width: 80px;
+}
+
+fieldset{
+   
+    background-color: black;
+}
+input{
+  margin-top: 10px;
+   
+}
+.xyz{
+    background-color: rgb(243, 194, 103);
+}
+button:hover{
+    color: white;
+    background-color: crimson;
+}
+table{
+   /* margin-left: 20%; */
+}
